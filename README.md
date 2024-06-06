@@ -1,10 +1,16 @@
 # Software Developer
+### Technical Skills 
+- C++, SQL, HTML, CSS, Javascript
+### Key Skills 
+- **Excellent analytical skills** developed through significant experience in seismic data interpretation. 
+- **Great communication skills** developed through experience of leading discussions with past co-workers and international clients, both during formal presentations and at international conferences.
+- **Strong collaboration skills** developed through working with multiple teams of different disciplines on multiple projects across the energy sector.
 
-### Technical Skills: C++, SQL, HTML, CSS, Javascript
 
 ## Education
 - MSc. Computer Science     | University of Dundee (2024)
 - BSc. Petroleum Geoscience | University of the West Indies, St Augustine (2018)
+
 
 ## Work Experience
 **Geophysicist, Ministry of Energy and Energy Industries – Trinidad and Tobago (Jan 2019 – Aug 2023)**
@@ -18,6 +24,7 @@
 
 **Subsurface Intern, BHP (Summer 2018	)**
 - Investigated controls on reservoir distribution and compartmentalisation via detailed seismic interpretation workflows using Schlumberger’s Petrel software. 
+
 
 ## Projects
 ### Computer Science

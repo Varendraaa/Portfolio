@@ -18,3 +18,12 @@
 
 **Subsurface Intern, BHP (Summer 2018	)**
 - Investigated controls on reservoir distribution and compartmentalisation via detailed seismic interpretation workflows using Schlumberger’s Petrel software. 
+
+## Projects
+### Computer Science
+- Game Design:
+-- Currently designing a fully playable 3D game using low level libraries, such as OpenGL and ImGUI.
+- Databases : Built and deployed a SQL database for a fictional online fishing supply store. Database was linked to a self developed storefront and tracked account creation, purchases and inventory status of items.
+- Software Engineering : 
+
+### Geoscience

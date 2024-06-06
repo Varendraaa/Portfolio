@@ -4,6 +4,4 @@ description: Hi, I'm Varendra and I love to learn new things. Previously worked 
 show_downloads: false
 theme: jekyll-theme-minimal
 
-social_links:
-- platform: LinkedIn
-  url : https://www.linkedin.com/in/varendrasaith/
+linkedin_username: varendrasaith

@@ -1,6 +1,8 @@
 # Software Developer
 ### Technical Skills 
-- C++, SQL, HTML, CSS, Javascript
+- Proficient in C++, HTML, CSS and JavaScript.
+- Working knowlege of SQL and Python.
+    
   
 ### Key Skills 
 - **Excellent analytical skills** developed through significant experience in seismic data interpretation. 
@@ -8,14 +10,15 @@
 - **Strong collaboration skills** developed through working with multiple teams of different disciplines on multiple projects across the energy sector.
 
 ## Education
-- MSc. Computer Science     | University of Dundee (2024)
-- BSc. Petroleum Geoscience | University of the West Indies, St Augustine (2018)
+- MSc. Computer Science (Distinction)  | University of Dundee (2024)
+- BSc. Petroleum Geoscience (Hons)     | University of the West Indies, St Augustine (2018)
 
   ## Projects
 ### Computer Science
-- **Game Design**
-  - Currently designing a fully playable 3D game using low level libraries, such as OpenGL and ImGUI.
-- **Databases**
+- **3D FPS Game Engine Design**
+  - Designed a custom 3D game and its underlying engine, from first principles, using OpenGL as the graphics API and other low level libraries for support.
+  - Currently porting the game over to WebGL to make it more accessible.
+- **Database Systems**
   - Built and deployed a SQL database for a fictional online fishing supply store. Database was linked to a self developed storefront and tracked account creation, purchases and inventory status of items.
 - **Web Development**
   - Built an API mashup that displayed to a user the weather and the current events given a location input. 

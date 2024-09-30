@@ -1,5 +1,6 @@
 # Software Developer
-### Technical Skills 
+## Technical Skills
+### Languages ### - C++, HTML, CSS, JavaScript
 - Proficient in C++, HTML, CSS and JavaScript.
 - Working knowlege of SQL and Python.
     
